@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "E.M.T.",
+    "description": "Extension Multi Tache",
+    "version": "0.2.1.2",
+    "permissions": [
+    "http://*/*",
+    "https://*/*",
+      "tabs",
+      "notifications"
+    ],
+    "browser_action": {
+      "default_icon" : "ico.png",
+      "default_popup": "index.html"
+    },
+    "icons": {
+      "128" : "ico.png"
+    },
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
