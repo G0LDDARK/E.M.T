@@ -12,3 +12,5 @@
 
 
 ## PS : Fonctionne avec Opera, Opera GX, Chrome, Chromunium et Edge (Pas testé avec firefox)
+
+### La version est 0.2.1.3 25/03/21
